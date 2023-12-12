@@ -1,1 +1,1 @@
-# www.getdark.net
+# getdark.net
